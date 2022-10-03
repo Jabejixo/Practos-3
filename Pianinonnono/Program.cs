@@ -21,7 +21,7 @@
                         Console.WriteLine("Вы решили выйти");
                         check = false;
                         break;
-                    default: Console.WriteLine("Дурачёк"); break;
+                    default: Console.WriteLine("PRESS F1 OR F2"); break;
                 }
             } while (check);
         }
