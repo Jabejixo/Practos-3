@@ -1,0 +1,15 @@
+C:\Learning\Pianinonnono\Pianinonnono\bin\Debug\net6.0\Pianinonnono.exe
+C:\Learning\Pianinonnono\Pianinonnono\bin\Debug\net6.0\Pianinonnono.deps.json
+C:\Learning\Pianinonnono\Pianinonnono\bin\Debug\net6.0\Pianinonnono.runtimeconfig.json
+C:\Learning\Pianinonnono\Pianinonnono\bin\Debug\net6.0\Pianinonnono.dll
+C:\Learning\Pianinonnono\Pianinonnono\bin\Debug\net6.0\Pianinonnono.pdb
+C:\Learning\Pianinonnono\Pianinonnono\obj\Debug\net6.0\Pianinonnono.csproj.AssemblyReference.cache
+C:\Learning\Pianinonnono\Pianinonnono\obj\Debug\net6.0\Pianinonnono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\Pianinonnono\Pianinonnono\obj\Debug\net6.0\Pianinonnono.AssemblyInfoInputs.cache
+C:\Learning\Pianinonnono\Pianinonnono\obj\Debug\net6.0\Pianinonnono.AssemblyInfo.cs
+C:\Learning\Pianinonnono\Pianinonnono\obj\Debug\net6.0\Pianinonnono.csproj.CoreCompileInputs.cache
+C:\Learning\Pianinonnono\Pianinonnono\obj\Debug\net6.0\Pianinonnono.dll
+C:\Learning\Pianinonnono\Pianinonnono\obj\Debug\net6.0\refint\Pianinonnono.dll
+C:\Learning\Pianinonnono\Pianinonnono\obj\Debug\net6.0\Pianinonnono.pdb
+C:\Learning\Pianinonnono\Pianinonnono\obj\Debug\net6.0\Pianinonnono.genruntimeconfig.cache
+C:\Learning\Pianinonnono\Pianinonnono\obj\Debug\net6.0\ref\Pianinonnono.dll
